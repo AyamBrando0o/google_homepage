@@ -1,0 +1,235 @@
+body, input, button {
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #222;
+}
+
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+.google_logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%; ;
+}
+
+.RNNXgb {
+    background: #fff;
+    display: flex;
+    border-radius: 8px;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 20px auto;
+    width: 482px;
+}
+
+.RNNXgb:hover, .sbfc .RNNXgb {
+    box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+    border-color: rgba(223,225,229,0);
+}
+
+.SDkEP {
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 16px;
+    padding-left: 14px;
+}
+
+.iblpc {
+    display: flex;
+    align-items:center;
+    padding-right: 13px;
+    margin-top: -5px;
+}
+
+.CcAdNb {
+    margin: auto;
+}
+
+.QCzoEc {
+    margin-top: 3px;
+    color: #9aa0a6;
+    height: 20px;
+    width: 20px;
+}
+.z1asCe {
+    display: inline-block;
+    fill: currentColor;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    width: 24px;
+}
+
+.a4bIc {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+}
+
+.pR49Ae {
+    color: transparent;
+    flex: 100%;
+    white-space: pre;
+    height: 34px;
+}
+
+.gLFyf {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    height: 34px;
+    font-size: 16px;
+}
+
+.dRYYxd {
+    display: flex;
+    flex: 0 0 auto;
+    margin-top: -5px;
+    align-items: stretch;
+    flex-direction: row;
+}
+
+.BKRPef {
+    padding-right: 4px;
+}
+
+.BKRPef {
+    flex: 1 0 auto;
+    display: none;
+    cursor: pointer;
+    align-items: center;
+    border: 0;
+    background: transparent;
+    outline: none;
+    padding: 0 8px;
+    line-height: 44px;
+}
+
+.ExCKkf {
+    margin-right: 12px;
+}
+.ExCKkf {
+    height: 100%;
+    color: #70757a;
+    vertical-align: middle;
+    outline: none;
+}
+
+.z1asCe svg {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.ACRAdd {
+    border-left: 1px solid #dfe1e5;
+    height: 65%;
+}
+
+.hpuQDe {
+    flex: 1 0 auto;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    border: 0;
+    background: transparent;
+    outline: none;
+    padding: 0 8px;
+    width: 24px;
+    line-height: 44px;
+}
+
+.HPVvwb {
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+}
+
+.lJ9FBc {
+    height: 70px;
+}
+.FPdoLc {
+    padding-top: 0px;
+    top: 53px;
+    z-index: 0;
+}
+
+.lJ9FBc input[type="submit"], .gbqfba {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+#SIvCob {
+    display: inline-block;
+    line-height: 28px;
+}
+
+#SIvCob a {
+    padding: 0 3px;
+}
+
+a {
+    color: #1a0dab;
+    text-decoration: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.vcVZ7d {
+    text-align: center;
+}
